@@ -1,6 +1,6 @@
 # lfa-ufam-afd
 
-Questões do livro Sipser página 85 sobre AFD feitos utilizando o JFLAP.
+Questões do livro Sipser página 89 sobre AFD feitos utilizando o JFLAP.
 O repositório contém arquivos .jff contendo o automato e arquivos .txt contendo os testes realizados.
 
 a) { w ∶ w inicia com 1 e termina com 0}
